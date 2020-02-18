@@ -8,6 +8,25 @@ The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/
 
 ### Lab Members
 
+feature_row:
+  - image_path: /images/welch_portraitt_sized.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/chao_gao.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/yuwei-bao.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+
+
+
 ![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
 
 **Joshua D. Welch, Ph.D.**<br/>
