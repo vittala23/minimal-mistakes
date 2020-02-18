@@ -1,11 +1,11 @@
 # main links
-- title: "Home"
-url: /index/
-- title: "People"
-url: /personal/
-- title: "Publications"
-url: /publications/
-- title: "Research"
-url: /research/
-- title: "Software
-url: /software/
+  - title: "Home"
+    url: /index/
+  - title: "People"
+    url: /personal/
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "Software
+    url: /software/
