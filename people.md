@@ -2,12 +2,6 @@
 layout: page
 title: People
 permalink: /people/
----
-
-The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/postdoctoral-job-posting.pdf)!
-
-### Lab Members
-
 feature_row:
   - image_path: /images/welch_portraitt_sized.jpg
     alt: "placeholder image 1"
@@ -23,8 +17,22 @@ feature_row:
   - image_path: /images/yuwei-bao.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
+
+The Welch Lab is seeking to hire a [postdoctoral researcher]({{ site.baseurl }}/postdoctoral-job-posting.pdf)!
+
+### Lab Members
 
 
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
 
 
 ![Joshua Welch]({{ site.baseurl }}/images/welch_portraitt_sized.jpg)
