@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /pubs/
 ---
 
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=welch%2C+joshua+d%5Bauthor%5D)\] \[[Google Scholar](https://scholar.google.com/citations?user=XQ7bqCMAAAAJ&hl=en)\]  
